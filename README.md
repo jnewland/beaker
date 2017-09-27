@@ -6,23 +6,23 @@ Puppet Labs cloud enabled acceptance testing tool.
 
 See [Beaker Installation](https://github.com/puppetlabs/beaker/wiki/Beaker-Installation) wiki page.
 
-#Documentation
+# Documentation
 
 Documentation for Beaker can be found in this repository in [the docs/ folder](docs/README.md).
 
-#Beaker Libraries
+# Beaker Libraries
 
 Beaker functionality has been extended through the use of libraries available as gems. See the
 [complete list](docs/Beaker-Libraries.md) for more details.
 
-#Beaker API
+# Beaker API
 
 [RubyDoc Beaker Documentation Server](http://rubydoc.info/github/puppetlabs/beaker/frames)
 
-#License
+# License
 
 See [LICENSE](LICENSE) file.
 
-#Support
+# Support
 
 Please log tickets and issues at our [Beaker Issue Tracker](https://tickets.puppetlabs.com/issues/?jql=project%20%3D%20BKR).  In addition there is an active #puppet-dev channel on Freenode.
